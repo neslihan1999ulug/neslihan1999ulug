@@ -8,6 +8,7 @@
 
 - 📫 How to reach me **nesil1999ulug@gmail.com**
 
+<hr>
 
 ### Languages
 
@@ -16,6 +17,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-<hr>
 
-<h3 align="left">Connect with me:</h3>
+
