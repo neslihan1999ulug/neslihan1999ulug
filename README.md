@@ -11,11 +11,11 @@
 - ### 📢 Find me elsewhere
 <p align="left">
   <a href="https://www.hackerrank.com/profile/neslihanulug">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/neslihan1999ulug/neslihan1999ulug/blob/main/hackerrank_logo.png" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://pathfinder.w3schools.com/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="w3schools" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/neslihan1999ulug/neslihan1999ulug/blob/main/W3Schools_logo.svg.png" alt="w3schools" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
