@@ -4,7 +4,8 @@
 </p>
 <h3 align="left">&nbsp; Patika+ Frontend Developer Bootcamp</h3>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Javascript** and **React**
+- 📝 I try to write articles on [My Medium Page]([https://medium.com/@neslihan-tosun])
 
 - 📫 How to reach me **nesil1999ulug@gmail.com**
 
