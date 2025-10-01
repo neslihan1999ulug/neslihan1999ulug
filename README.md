@@ -11,7 +11,7 @@
 <hr>
 
 ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=neslihan1999ulug&show_icons=true&theme=radical)
 
 ### Languages
 
