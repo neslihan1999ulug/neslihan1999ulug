@@ -11,7 +11,7 @@
 <hr>
 
 ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api?username=neslihan1999ulug&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neslihan1999ulug&layout=compact&theme=radical)
 
 ### Languages
 
