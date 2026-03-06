@@ -3,9 +3,13 @@
   <img src="https://github.com/neslihan1999ulug/neslihan1999ulug/blob/main/neslihan.gif" width="50%" alt="Banner">
 </p>
 <h3 align="left">&nbsp; 
-Freecodecamp Responsive Web Designer Bootcamp and Patika+ Frontend Web Developer Bootcamp</h3>
+Patika+ Promp Engineer Bootcamp</h3>
+<h3 align="left">&nbsp; 
+Freecodecamp Responsive Web Designer Bootcamp</h3>
+<h3 align="left">&nbsp; 
+ Patika+ Frontend Web Developer Bootcamp</h3>
 
-- 🔭 I’m currently working on **Javascript** and **React**
+- 🔭 I’m currently working on **Hugging Face Agents Course** and **Pyhton**
 - 📝 I try to write articles on [My Medium Page](https://medium.com/@neslihan-tosun)
 - 📫 How to reach me **nesil1999ulug@gmail.com**
 
