@@ -3,16 +3,23 @@
   <img src="https://github.com/neslihan1999ulug/neslihan1999ulug/blob/main/neslihan.gif" width="50%" alt="Banner">
 </p>
 <h3 align="left">&nbsp; 
-Patika+ Promp Engineer Bootcamp</h3>
-<h3 align="left">&nbsp; 
-Freecodecamp Responsive Web Designer Bootcamp</h3>
-<h3 align="left">&nbsp; 
- Patika+ Frontend Web Developer Bootcamp</h3>
+Junior Generative AI Engineer | AI Agent Developer </h3>
 
-- 🔭 I’m currently working on **Hugging Face Agents Course** and **Pyhton**
+# Hi there 👋
+
+- 🔭 I'm currently working on **Hugging Face Agents Course** and **Python**
+- 🎓 I recently graduated from the **Patika+ Prompt Engineer Bootcamp** and **Patika+ Frontend Web Developer Bootcamp**
 - 📝 I try to write articles on [My Medium Page](https://medium.com/@neslihan-tosun)
-- 📫 How to reach me **nesil1999ulug@gmail.com**
+- 📫 How to reach me: **nesil1999ulug@gmail.com**
 
+---
+
+## 🏅 Featured Certifications
+
+- AI-Powered Productivity Academy — Coderspace (Mar 2026)
+- AI-Powered Product Visuals & Content Generation — TURKONFED (Jan 2026)
+- Anthropic Claude — BTK Akademi (Feb 2026)
+- Developing AI Agents with Platforms — BTK Akademi (Feb 2026) · ID: ax1hrE8WXo
 <hr>
 
 ### Github Stats
